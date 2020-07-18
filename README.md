@@ -1,5 +1,5 @@
 # COVID-19-Probability-and-Statistics
-University project - Probability and statistics course<br/>
+University project - Probability and statistics course 2020<br/>
 Preparing and visualizing the data set, applying linear regression to predict deaths due to COVID-19.
 
 ## Built With
